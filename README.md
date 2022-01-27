@@ -2,7 +2,7 @@
 Representation of the local rail network in th city of Glasgow, Scotland, UK originating from Glasgow Queen Street station.
 
 
-![Image of Current State of Map](Images/GlasgowSuburban.bmp)
+![Image of Current State of Map](Images/Glasgow_Suburban.bmp)
 
 ## Current Status
 
