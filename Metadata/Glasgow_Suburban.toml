@@ -10,4 +10,5 @@ country_code = "GB"
 description = ""
 display_name = "Glasgow Suburban"
 name = "Glasgow Suburban"
-author = "Kristian Zarębski"
+author = "Krizar"
+countributors = []
