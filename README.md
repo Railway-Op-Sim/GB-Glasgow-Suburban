@@ -9,8 +9,8 @@ Representation of the local rail network in th city of Glasgow, Scotland, UK ori
 | Stage         | Status        |
 | ------------- |:-------------:|
 | Track Plan     | :heavy_check_mark: |
-| Signalling      | :grey_question:      |
-| Naming | :x:      |
+| Signalling      | :heavy_check_mark:      |
+| Naming | :heavy_check_mark:      |
 | Speed Limits | :x: |
 | Distances | :x: |
 | Timetable | :x: |
