@@ -1,9 +1,13 @@
 rly_file = "Glasgow_Suburban.rly"
 ttb_files = []
 ssn_files = []
+graphic_files = []
+img_files = [ "GlasgowSuburban.bmp",]
+doc_files = [ "README.md",]
+release_date = "2022-01-26"
+version = "1.0.0"
 country_code = "GB"
-name = ""
 description = ""
 display_name = "Glasgow Suburban"
+name = "Glasgow Suburban"
 author = "Kristian Zarębski"
-contributors = [ "Kristian Zarebski",]
