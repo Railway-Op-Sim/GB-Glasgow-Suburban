@@ -46,4 +46,8 @@ There are a few repeating services including:
 * Glasgow Queen Street High Level to Anniesland via Ashfield, make sure to route these services into Anniesland Plat 3 (the bay platform).
 * Helensburgh Central to Edinburgh via Dalmuir, Garscadden, Charing Cross.
 
-Any service prefixed with 5XXX is an empty stock movement, some of these do however have timetabled stops for crew switchover or allowing passing of other services.
+## Tips
+
+* Any service prefixed with 5XXX is an empty stock movement, some of these do however have timetabled stops for crew switchover or allowing passing of other services.
+
+* Take care when routing services towards Eastfield from Barnhill direction, the only crossover lies before Springburn.
