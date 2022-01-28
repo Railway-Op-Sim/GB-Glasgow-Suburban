@@ -11,4 +11,4 @@ description = ""
 display_name = "Glasgow Suburban"
 name = "Glasgow Suburban"
 author = "Krizar"
-contributors = []
+contributors = [ "Kristian Zarebski",]
