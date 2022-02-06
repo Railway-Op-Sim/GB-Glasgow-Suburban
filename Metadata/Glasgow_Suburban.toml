@@ -1,13 +1,13 @@
 rly_file = "Glasgow_Suburban.rly"
-ttb_files = []
-ssn_files = []
+ttb_files = ["Glasgow_Suburban_2022_MoFri_5am.ttb"]
+ssn_files = ["Glasgow_Suburban_2022_MoFri_5am.ssn"]
 graphic_files = []
 img_files = [ "GlasgowSuburban.bmp",]
 doc_files = [ "README.md",]
 release_date = "2022-01-27"
 version = "1.0.0"
 country_code = "GB"
-description = ""
+description = "A simulation of the suburban rail network around the Scottish city of Glasgow, UK"
 display_name = "Glasgow Suburban"
 name = "Glasgow Suburban"
 author = "Krizar"
