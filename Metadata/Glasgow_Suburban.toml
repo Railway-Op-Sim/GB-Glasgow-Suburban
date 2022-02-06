@@ -1,6 +1,6 @@
 rly_file = "Glasgow_Suburban.rly"
-ttb_files = ["Glasgow_Suburban_2022_MoFri_5am.ttb"]
-ssn_files = ["Glasgow_Suburban_2022_MoFri_5am.ssn"]
+ttb_files = [ "Glasgow_Suburban_2022_MoFri_5am.ttb",]
+ssn_files = [ "Glasgow_Suburban_2022_MoFri_5am.ssn",]
 graphic_files = []
 img_files = [ "GlasgowSuburban.bmp",]
 doc_files = [ "README.md",]
